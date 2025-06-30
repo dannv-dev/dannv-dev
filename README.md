@@ -9,7 +9,7 @@ Although I don't have formal work experience yet, I've spent the past **4 years 
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Redux
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
 - **Tools & Platforms:** Git, GitHub, Vite, VS Code, Figma
 
 ---
@@ -17,7 +17,7 @@ Although I don't have formal work experience yet, I've spent the past **4 years 
 ## 📁 Projects & Portfolio
 
 You can check out the projects I’ve been working on and more about me on my portfolio:  
-👉 **[My Portfolio](https://your-portfolio-link.com)**
+👉 **[My Portfolio](https://danvine.co.uk)**
 
 ---
 
@@ -31,9 +31,8 @@ You can check out the projects I’ve been working on and more about me on my po
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Twitter/X](https://twitter.com/your-handle)  
-- Email: `your-email@example.com`
+- [LinkedIn](https://www.linkedin.com/in/danvine21/)  
+- Email: `danielvine2004@gmail.com`
 
 ---
 
