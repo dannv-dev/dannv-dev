@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-I'm a 20-year-old Front-End Web Developer from England 🇬🇧 with a strong passion for building elegant and performant user interfaces using **React** and **TypeScript**.
+I'm a 21-year-old Front-End Web Developer from England 🇬🇧 with a strong passion for building elegant and performant user interfaces using **React** and **TypeScript**.
 
 Although I don't have formal work experience yet, I've spent the past **4 years honing my development skills** through personal projects, online learning, and constant experimentation. My goal is to create intuitive, accessible, and responsive web experiences that make a difference.
 
