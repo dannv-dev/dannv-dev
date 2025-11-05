@@ -1,39 +1,48 @@
-# Hi, I'm Dan 👋
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm Dan</h1>
+<h3 align="center">Front-End Developer | React • TypeScript • Next.js</h3>
 
-I'm a 21-year-old Front-End Web Developer from England 🇬🇧 with a strong passion for building elegant and performant user interfaces using **React** and **TypeScript**.
-
-Although I don't have formal work experience yet, I've spent the past **4 years honing my development skills** through personal projects, online learning, and constant experimentation. My goal is to create intuitive, accessible, and responsive web experiences that make a difference.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, Vite, VS Code, Figma
+<p align="center">
+  <a href="https://danvine.co.uk" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/danvine21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:danielvine2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📁 Projects & Portfolio
+### 🧑‍💻 About Me
 
-You can check out the projects I’ve been working on and more about me on my portfolio:  
-👉 **[My Portfolio](https://danvine.co.uk)**
+I’m a **Front-End Developer** from England 🇬🇧 who loves crafting clean, performant, and accessible user interfaces with **React** and **TypeScript**.
 
----
+Over the past **4 years**, I’ve built a range of projects—from design-driven websites to full-featured apps—always focused on **usability, performance, and maintainability**.
 
-## 🚀 Currently
-
-- Learning more about backend integration and full-stack workflows
-- Building open-source projects to contribute to the developer community
-- Exploring advanced React patterns and UI/UX design
+💡 I’m currently:
+- Diving deeper into **backend integration** and full-stack workflows  
+- Building **open-source projects** to contribute to the dev community  
+- Exploring **advanced React patterns** and **UI/UX design**  
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/danvine21/)  
-- Email: `danielvine2004@gmail.com`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,sass,vite,git,figma,vscode" />
+</p>
 
 ---
 
-Thanks for stopping by! 😊 Feel free to check out my repositories and drop a star ⭐ on anything you find interesting.
+### 💼 Featured Projects
+
+You can explore more on my portfolio 👉 **[danvine.co.uk](https://danvine.co.uk)**
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎨 **Portfolio Website** | A modern, responsive site showcasing my projects and skills. | Next.js, Tailwind CSS |
+| 🧩 **React UI Components Library** | A reusable set of accessible, customizable UI components. | React, TypeScript |
+| 🌦️ **Weather Dashboard** | Real-time weather data visualization with clean, responsive design. | React, API integration |
+
+---
+
+### 🌱 Open to Opportunities
+
+I’m currently looking for **front-end developer roles**, **internships**, or **collaborations** where
